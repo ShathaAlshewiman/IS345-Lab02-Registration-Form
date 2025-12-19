@@ -14,10 +14,13 @@ Visual Studio Debugger
 
 # Learning Outcomes
 Creating and handling HTML forms in ASP.NET MVC
-Passing data from views to controller actions
-Using POST actions to process user input
-Debugging and identifying logical and runtime errors
-Educational Disclaimer
 
+Passing data from views to controller actions
+
+Using POST actions to process user input
+
+Debugging and identifying logical and runtime errors
+
+# Educational Disclaimer
 ⚠️ This project was developed for learning and training purposes only.
  All information entered or displayed is not real and should not be used in real-world applications.
